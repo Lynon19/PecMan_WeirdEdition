@@ -6,6 +6,7 @@ We made a weird PacMan game based on MicroBit.
 
 视频演示：https://www.bilibili.com/video/BV1qz4y1v7Mq
 
+![Poster](Poster.png)
 游戏规则：<br/>
 
 在一个神秘的迷宫中，住着一群拥有特殊能力的小生物，他们的身体由黄色的圆形和三条黑线组成，就像豆子一样。他们被称为“吃豆人”，因为他们的主要任务就是寻找和吃掉所有的豆子。<br/>
